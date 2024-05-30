@@ -16,7 +16,9 @@
 
 <hr>
 - 🎓 Just finished my Master's in Electrical and Computer Engineering in 2024
+
 - 🌱 Passionate about learning new technologies and exploring the world of coding
+  
 - 📫 Let's talk: **peixotojdaniel@gmail.com**
 
 <h3 align="left">Let's get in touch:</h3>
