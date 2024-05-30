@@ -15,6 +15,7 @@
 </details>
 
 <hr>
+
 - 🎓 Just finished my Master's in Electrical and Computer Engineering in 2024
 
 - 🌱 Passionate about learning new technologies and exploring the world of coding
@@ -35,7 +36,7 @@
 </p>
 <hr>
 <h3 align="left" > 🚀 Tech Stack:</h3>
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=java,py,c,cs,cpp,arduino,ros,raspberrypi,docker,unity,github,html,css,mysql,sqlite,ubuntu" 
  </p>
 
