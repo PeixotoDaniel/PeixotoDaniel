@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <samp>
-    I am a aspiring junior back-end developer from <b>Viana do Castelo</b>
+    I am an aspiring junior back-end developer from <b>Viana do Castelo. Nice to meet you!</b>
     <br>
   </samp>
 </p>
