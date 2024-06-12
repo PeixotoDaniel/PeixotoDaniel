@@ -27,11 +27,9 @@
  <a href="https://www.linkedin.com/in/joaodanielpeixoto/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
-<!---
-<a href="CV_JoaoPeixoto.pdf" download>
+<a href="JoaoPeixoto_CV_v3.5.pdf" download>
   <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
  </a>
--->
 
 </p>
 <hr>
